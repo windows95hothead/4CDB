@@ -1,0 +1,4 @@
+0 macintosh
+1 IBM
+2 PET
+3 toshiba T1910cs
